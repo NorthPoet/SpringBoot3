@@ -11,6 +11,7 @@ public class Book {
 
     public String test() {
         System.out.println("分支操作");
+        System.out.println("master test");
         return "Hello Git";
     }
 }
