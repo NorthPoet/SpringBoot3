@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Book {
 
     public String test() {
+        System.out.println("分支操作");
         return "Hello Git";
     }
 }
