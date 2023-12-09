@@ -13,6 +13,7 @@ public class Book {
         System.out.println("分支操作");
         System.out.println("master test");
         System.out.println("fix test");
+        System.out.println("push test");
         return "Hello Git";
     }
 }
