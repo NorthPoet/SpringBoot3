@@ -14,6 +14,7 @@ public class Book {
         System.out.println("master test");
         System.out.println("fix test");
         System.out.println("push test");
+        System.out.println("pull test");
         return "Hello Git";
     }
 }
